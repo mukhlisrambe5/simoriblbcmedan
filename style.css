@@ -1,0 +1,29 @@
+
+.login-page{
+    background-image: url("image/bg_login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: blur(8px); */
+    /* -webkit-filter: blur(8px);
+    z-index: 1; */
+}
+
+.bg_login{
+    background-image: url("image/bg_login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* backdrop-filter: blur(10px); */
+    /* backdrop-filter: blur(2px); */
+    height: 100vh;
+    /* background-color: burlywood; */
+    /* filter: blur(8px);   */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
+.textShadow{
+    text-shadow: 2px 2px black;
+    color: blue;
+}
